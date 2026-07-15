@@ -28,8 +28,8 @@ module Config =
 
     // --- Site metadata (edit these for your site) ---
     // Only change the values in quotes - the rest is just labels.
-    let siteTitle = "SkunkHTML"
-    let siteDescription = "The simplest blog on GitHub Pages. Fork, enable Pages, write Markdown."
+    let siteTitle = "MyBlog"
+    let siteDescription = "My Blog Page. :)"
     let siteBaseUrl = "https://mg0x7be.github.io/skunk-html"  // No trailing slash. Include repo name if using project pages.
     let siteLanguage = "en"
     let siteAuthor = ""  // Optional, used in RSS feed and meta tags
