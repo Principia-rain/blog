@@ -1,4 +1,3 @@
-# Welcome to SkunkHTML!
+# 欢迎来到我的博客！
 
-This is an ultra-simple blog generator built on Markdown files. Just fork this repository, enable GitHub Pages, and you have a blog — with RSS, dark mode, SEO meta tags, and themes built in. To add a new post, create a Markdown file with a date in its filename and push. That's it! Markdown in, GitHub Pages out!
-
+这里是我的个人博客，这里记录了我平时的思考与有趣分享。覆盖面很广，从游戏设计、程序开发到物理学习。希望其中有些文章可以对正在阅读的你和未来的我有所帮助！我们一起向前！
