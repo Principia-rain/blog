@@ -30,8 +30,8 @@ module Config =
     // Only change the values in quotes - the rest is just labels.
     let siteTitle = "MyBlog"
     let siteDescription = "My Blog Page. :)"
-    let siteBaseUrl = "https://mg0x7be.github.io/skunk-html"  // No trailing slash. Include repo name if using project pages.
-    let siteLanguage = "en"
+    let siteBaseUrl = "https://principia-rain.github.io/blog"  // No trailing slash. Include repo name if using project pages.
+    let siteLanguage = "cn"
     let siteAuthor = ""  // Optional, used in RSS feed and meta tags
 
 module Disk =
