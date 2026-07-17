@@ -31,7 +31,7 @@ module Config =
     let siteTitle = "MyBlog"
     let siteDescription = "My Blog Page. :)"
     let siteBaseUrl = "https://principia-rain.github.io/blog"  // No trailing slash. Include repo name if using project pages.
-    let siteLanguage = "cn"
+    let siteLanguage = "en"
     let siteAuthor = ""  // Optional, used in RSS feed and meta tags
 
 module Disk =
